@@ -1,0 +1,14 @@
+.tweets img.team-photo {
+  width: 100%;
+  margin-bottom: 18px;
+  border-radius: 50%;
+}
+
+.tweets span.handle > a, .tweets span.handle > a:active, .tweets span.handle > a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.tweets span.handle > a:hover {
+  text-decoration: underline;
+}
