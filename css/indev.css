@@ -1,3 +1,9 @@
+/* HERO */
+h2.paragraph.hero {
+  font-size: 20px;
+}
+
+/* TEAM */
 .tweets img.team-photo {
   width: 100%;
   margin-bottom: 18px;
@@ -12,3 +18,4 @@
 .tweets span.handle > a:hover {
   text-decoration: underline;
 }
+
