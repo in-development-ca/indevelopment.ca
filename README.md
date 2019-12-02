@@ -8,7 +8,7 @@ Clone this repo, take a crack at it. Right now it is just basic HTML and CSS.
 
 ## Contribute
 
-Please do! Note: we are currently redesigning this.
+Please do! Any work done on this would be appreciated. We're always looking for people to help out.
 
 ## License
 
